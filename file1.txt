@@ -1,1 +1,2 @@
 This is the first line in file1Adding another line
+This is a change made in the testing branch
